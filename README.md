@@ -5,8 +5,9 @@ Capstone Project
 
 Stock Price Prediction using Machine Learning
 
-This project is predict stock price using best Machine Learning Models and i am going to predict price for the Starbucks and ATT.
-I am going to use Decision Tree Regression model for the benchmarking and Support Vector Regressor (SVR), Random Forest and Long Short-Term Memory (LSTM).
+This project is about predicting the stock price using best Machine Learning Models and I am going to predict stock price of Starbucks and ATT.
+Used Decision Tree Regression model for the benchmarking and Support Vector Regressor (SVR), Random Forest and Long Short-Term Memory (LSTM) as solution models.
+I will compare these models and finalize the best model for future prediction. Used RMSE and R2 square as metrics to compare.
 
 Datasets collection
 
@@ -23,7 +24,8 @@ I am going to use two most popular metrics methods.
 2. R-Squared (R2)
 
 Project Design
-Project will be completed on the Jupyter Notebook with python language. This project requires pandas, numpy, scikit-learn, keras, matplotlib and seaborn libraries so I will be using importing this before I start. Development code will found in stock_prediction.ipynb notebook.
+      
+      Project will be completed on the Jupyter Notebook with python language. This project requires pandas, numpy, scikit-learn, keras, matplotlib and seaborn libraries so I will be using importing this before I start. Development code will found in stock_prediction.ipynb notebook.
 
 Machine Learning Work Flow:
 
