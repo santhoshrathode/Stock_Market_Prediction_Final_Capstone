@@ -1,4 +1,4 @@
-# Stock_Market_Prediction_MachineLearning
+# Stock_Market_Prediction_Final_Capstone_Project
 
 Machine Learning Engineer Nanodegree
 Capstone Project
