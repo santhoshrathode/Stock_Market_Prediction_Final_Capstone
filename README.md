@@ -41,7 +41,7 @@ Machine Learning Work Flow:
 
       Finally, compare the result with benchmark model.
 
-project structure:
+Project structure:
 
       Machine Learning Engineer Nanodegree proposal is proposal.pdf
 
